@@ -1,4 +1,4 @@
-# Please Read First Before Running!!!
+# PHP_Laravel_Property-Listing_RESTful-API
 
 This is a Laravel RESTful API mini project for property listing.
 
